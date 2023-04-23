@@ -34,7 +34,7 @@ app.get('/', (req, res) => {
         // sortBy: 'relevancy',
         // page: 2
         sources: 'bbc-news,the-verge',
-        q: 'bitcoin',
+        q: 'wall street',
         //   category: 'business',
         language: 'en',
         //   country: 'us'
